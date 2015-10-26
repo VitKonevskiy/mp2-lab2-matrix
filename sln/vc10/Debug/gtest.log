@@ -1,0 +1,14 @@
+﻿Build started 26.10.2015 21:54:56.
+     1>Project "F:\Git Projects\mp2-lab2-matrix\sln\vc10\gtest.vcxproj" on node 2 (Rebuild target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (sample_utmatrix.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         F:\VS 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D GTEST_EXPORTS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\gtest\gtest-all.cc"
+         gtest-all.cc
+       Lib:
+         F:\VS 2013\VC\bin\Lib.exe /OUT:"F:\Git Projects\mp2-lab2-matrix\sln\vc10\Debug\gtest.lib" /NOLOGO "Debug\gtest-all.obj"
+         gtest.vcxproj -> F:\Git Projects\mp2-lab2-matrix\sln\vc10\Debug\gtest.lib
+     1>Done Building Project "F:\Git Projects\mp2-lab2-matrix\sln\vc10\gtest.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.92
