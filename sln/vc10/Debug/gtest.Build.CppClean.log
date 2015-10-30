@@ -2,9 +2,11 @@ f:\git projects\mp2-lab2-matrix\sln\vc10\debug\vc120.pdb
 f:\git projects\mp2-lab2-matrix\sln\vc10\debug\vc120.idb
 f:\git projects\mp2-lab2-matrix\sln\vc10\debug\gtest-all.obj
 f:\git projects\mp2-lab2-matrix\sln\vc10\debug\gtest.lib
-f:\git projects\mp2-lab2-matrix\sln\vc10\debug\sample_matrix.obj
-f:\git projects\mp2-lab2-matrix\sln\vc10\debug\sample_utmatrix.ilk
-f:\git projects\mp2-lab2-matrix\sln\vc10\debug\sample_utmatrix.pdb
+f:\git projects\mp2-lab2-matrix\sln\vc10\debug\test_main.obj
+f:\git projects\mp2-lab2-matrix\sln\vc10\debug\test_tmatrix.obj
+f:\git projects\mp2-lab2-matrix\sln\vc10\debug\test_tvector.obj
+f:\git projects\mp2-lab2-matrix\sln\vc10\debug\test_utmatrix.ilk
+f:\git projects\mp2-lab2-matrix\sln\vc10\debug\test_utmatrix.pdb
 f:\git projects\mp2-lab2-matrix\sln\vc10\debug\gtest.tlog\cl.command.1.tlog
 f:\git projects\mp2-lab2-matrix\sln\vc10\debug\gtest.tlog\cl.read.1.tlog
 f:\git projects\mp2-lab2-matrix\sln\vc10\debug\gtest.tlog\cl.write.1.tlog
